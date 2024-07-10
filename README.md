@@ -1,8 +1,16 @@
-# React + Vite
+# Directory App
+A directory app in React is a type of application that allows users to browse, search, and interact with a list of items or entities. These items could be anything from contacts, businesses, products, or even files.  
+## Tech Stack
+- React(For building UI)
+- Tailwind( For styling)
+- Redux (For State Manangement)
+## Home Page
+<img width="875" alt="image" src="https://github.com/junejaananya1234/Directory-App/assets/85674225/9b554709-61fb-4726-bc7d-0547433391ee">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="883" alt="image" src="https://github.com/junejaananya1234/Directory-App/assets/85674225/509ec049-9a5a-4d34-9426-dee306b67ed4">
 
-Currently, two official plugins are available:
+<img width="902" alt="image" src="https://github.com/junejaananya1234/Directory-App/assets/85674225/f5f55a68-27e8-4116-8835-bbe01f224d48">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  
+For Contact 
+junejaananya1234@gmail.com
